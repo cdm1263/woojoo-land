@@ -1,5 +1,6 @@
 # 🪐 우주부동산
 
+### 우주의 모든 것을 쇼핑하는 곳! 우주 부동산
 > [🪐 우주부동산에서 집보러 가기](https://woojoo-land.netlify.app/)  
 > [Github](https://github.com/pildrums/woojoo_land)
 
