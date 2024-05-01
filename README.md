@@ -79,7 +79,7 @@ PW: admin123
 - 찜 목록 조회 페이지
 - 사용자 정보 수정 페이지
 - 계좌 관리
-- 관리자 페이지 겁근 관리
+- 관리자 페이지 접근 관리
 - React-query 활용
 - [작업일지](https://github.com/pildrums/woojoo_land/blob/master/src/pages/user/README.md)
 
